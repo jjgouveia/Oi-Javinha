@@ -1,5 +1,5 @@
+package edu.hackerRank;
 import java.util.Scanner;
-//Desafio do HackerRank
 
 public class JavaStdinAndStdoutII {
     public static void main(String[] args) {

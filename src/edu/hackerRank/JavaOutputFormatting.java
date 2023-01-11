@@ -1,3 +1,4 @@
+package edu.hackerRank;
 import java.util.Scanner;
 
 public class JavaOutputFormatting {
