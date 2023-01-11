@@ -13,6 +13,11 @@ public class condicionalTernária {
         int n2 = sc.nextInt();
         sc.close();
 
+        if (n1 == n2) {
+            System.out.println("Os números são iguais");
+            return;
+        }
+        
         String resultado = n1 > n2 ? "O primeiro número é o maior" : "O segundo número é o maior";
 
         System.out.println(resultado);
