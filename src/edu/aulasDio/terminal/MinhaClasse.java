@@ -1,4 +1,4 @@
-package edu.aulas.terminal;
+package edu.aulasDio.terminal;
 
 public class MinhaClasse {
     public static void main(String[] args) {

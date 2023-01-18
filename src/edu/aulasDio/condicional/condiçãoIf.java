@@ -1,4 +1,4 @@
-package edu.aulas.condicional;
+package edu.aulasDio.condicional;
 
 import java.util.Scanner;
 

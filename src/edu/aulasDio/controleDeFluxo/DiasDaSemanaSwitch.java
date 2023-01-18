@@ -1,4 +1,4 @@
-package edu.aulas.controleDeFluxo;
+package edu.aulasDio.controleDeFluxo;
 
 import java.util.Scanner;
 

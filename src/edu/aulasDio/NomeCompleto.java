@@ -1,4 +1,4 @@
-package edu.aulas;
+package edu.aulasDio;
 
 //Mmeu primeiro programa Java ❤️
 

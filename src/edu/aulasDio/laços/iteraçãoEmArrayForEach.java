@@ -1,4 +1,4 @@
-package edu.aulas.laços;
+package edu.aulasDio.laços;
 
 public class iteraçãoEmArrayForEach {
     public static void main(String[] args) {
