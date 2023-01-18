@@ -26,7 +26,6 @@ public class ExWhile02 {
                     break;
                 }
             }
-
             // do {
             //     System.out.println("Digite uma nota: ");
             //     nota = sc.nextDouble();
